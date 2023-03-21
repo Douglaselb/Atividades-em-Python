@@ -1,3 +1,5 @@
+#Tabuada simples
+
 x = int(input('Digite o valor da tabuada: '))
 print(f"""
 {x} x 1 = {x*1}
