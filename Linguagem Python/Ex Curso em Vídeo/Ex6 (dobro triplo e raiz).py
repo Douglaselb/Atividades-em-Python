@@ -1,3 +1,5 @@
+#Calcular o dobro, triplo e raiz de um número
+
 x = int(input('Digite um valor entre: '))
 print(f"""
 O valor digitado foi {x}
