@@ -1,3 +1,5 @@
+#Sorteio de apresentação
+
 import random
 a1 = str(input('Digite o nome do 1° aluno: '))
 a2 = str(input('Digite o nome do 2° aluno: '))
