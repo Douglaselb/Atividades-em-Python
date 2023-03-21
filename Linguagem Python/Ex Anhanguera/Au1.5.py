@@ -1,4 +1,4 @@
-#Estrutura de repetição While
+#Estrutura de repetição While.
 
 x = 1
 while x != 0:
