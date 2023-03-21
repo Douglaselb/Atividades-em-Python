@@ -1,2 +1,2 @@
 # Projetos programação
- projetos em programação usando diferentes linguagens
+Projetos em Python de diferentes fontes.
