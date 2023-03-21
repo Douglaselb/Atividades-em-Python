@@ -1,3 +1,5 @@
+#Sorteio aleatório de um aluno
+
 from random import randint
 print("""\tSegue a lista dos alunos que estão participando do sorteio
 [1] Ana
