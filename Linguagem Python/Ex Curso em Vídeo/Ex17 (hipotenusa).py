@@ -1,3 +1,5 @@
+#Calculo hipotenusa
+
 import math
 print('Para calcular a hipotenusa precisamos de algumas informações')
 oposto = float(input('Informe o valor do cateto oposto: '))
