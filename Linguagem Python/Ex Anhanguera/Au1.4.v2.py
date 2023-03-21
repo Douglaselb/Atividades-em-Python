@@ -1,4 +1,6 @@
-#Estrutura if com operadores lógicos
+#Estrutura if com operadores relacional e lógico
+#Operador relacional <,>,<=,>=,==
+#operador lógico and, or, not
 
 nota1 = float(input('Digite a primeira nota do aluno: '))
 nota2 = float(input('Digite a segunda nota do aluno: '))
