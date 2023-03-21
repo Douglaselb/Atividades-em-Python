@@ -1,4 +1,5 @@
 #Tipos primitivos
+
 x = input('Digite algo: ')
 print(f"""
 O tipo primitivo do ({x}) é {type(x)}
