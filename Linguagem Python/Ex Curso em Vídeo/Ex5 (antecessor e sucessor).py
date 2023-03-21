@@ -1,3 +1,5 @@
+#Mostre o antecessor e sucessor de um número 
+
 x = int(input('Digite um numero entre 1 e 5: '))
 print(f"""
 O valor digitado foi {x}
