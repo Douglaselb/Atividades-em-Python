@@ -1,4 +1,5 @@
 #Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+
 print('Diferentes maneiras de printar o Ola mundo.')
 texto = 'Ola Mundo'
 tex = 'Ola '
