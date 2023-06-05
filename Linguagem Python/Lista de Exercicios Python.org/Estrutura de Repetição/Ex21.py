@@ -15,4 +15,4 @@ while resposta != 'n':
         else:
             print("Não é primo.")
     resposta = str(input('Gostaria de continuar?[S/N]: ')).lower()[0]
-    print('Programa finalizado.')
+print('Programa finalizado.')
