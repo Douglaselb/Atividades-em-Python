@@ -1,4 +1,4 @@
-# Projetos programação em Python
+# Atividades em Python
 Atividadaes de estudo em Python de diferentes fontes.
 
 ## Fontes:
