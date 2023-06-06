@@ -1,5 +1,5 @@
 # Projetos programação em Python
-Projetos em Python de diferentes fontes.
+Atividadaes de estudo em Python de diferentes fontes.
 
 ## Fontes:
 #### - Curso em Video
