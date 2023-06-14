@@ -1,4 +1,4 @@
-# Usamos o loop for para passarmos por cada elemento da matriz
+# Para percorrermos os elementos da matriz um método é usar o loop for
 
 import numpy as np
 matriz_zero = np.array([1,2,3,4,5])
