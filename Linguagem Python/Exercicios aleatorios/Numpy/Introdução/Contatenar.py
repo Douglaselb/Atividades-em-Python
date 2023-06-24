@@ -9,5 +9,5 @@ matriz_tres = np.array([[20,21,22],[30,31,32]])
 matriz_quatro = np.array([[90,91,92],[80,81,82]])
 uniao_dois = np.concatenate((matriz_tres, matriz_quatro), axis= 1) # Concatenando 2-D
 
-print('Concatenando matrizes.\nMatrizes 1-D: ', uniao)
+print('Concatenando matrizes.\nArray 1-D: ', uniao)
 print('Matrizes 2-D:\n', uniao_dois)
