@@ -8,7 +8,7 @@ import numpy as np
 array_um = np.array([9, 8, 7])
 array_dois = np.array([3, 2, 1])
 # Podemos determinar uma hora array dentro da stack().
-# exemplo stack_array = np.stack((array_um, array_dois, [11,22,33]), axis= 0)
+# Exemplo stack_array = np.stack((array_um, array_dois, [11,22,33]), axis= 0)
 stack_array = np.stack((array_um, array_dois), axis= 0)
 stack_axis = np.stack((array_um, array_dois), axis= 1)
 print('Axis= 0: \n', stack_array)
